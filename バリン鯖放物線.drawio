@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T15:07:53.333Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="nOGyJORReCUXGmRjafrl" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T15:20:40.211Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="_JUN4BMIwaFyY788IwKu" version="24.6.5" type="github">
   <diagram name="ページ1" id="QaieerKhkq7__LM671Lb">
     <mxGraphModel dx="1406" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="600" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="SqQYFrkd0iO5lQTSalbu-16" value="&lt;div&gt;放物天空橋&lt;/div&gt;B03" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="SqQYFrkd0iO5lQTSalbu-17" value="&lt;div&gt;初期スポ&lt;/div&gt;B04" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="280" width="60" height="35" as="geometry" />
+        <mxCell id="SqQYFrkd0iO5lQTSalbu-17" value="&lt;div&gt;初期スポーン&lt;br&gt;&lt;/div&gt;B04" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="870" y="280" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SqQYFrkd0iO5lQTSalbu-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;放物本線&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ナンバリングA&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="880" y="440" width="80" height="40" as="geometry" />
