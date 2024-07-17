@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T12:28:55.081Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="Q_90d7wndKPkh-WAjOp0" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T12:29:10.751Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="DnB-9Nze3-MJdKjLcyRA" version="24.7.1" type="github">
   <diagram name="ページ1" id="QaieerKhkq7__LM671Lb">
     <mxGraphModel dx="1122" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="600" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
           <mxGeometry x="40" y="40" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R3fqboOcB1MEgXBpDGtV-26" value="&lt;font color=&quot;#666666&quot;&gt;&lt;i&gt;KABE&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="140" width="80" height="20" as="geometry" />
+          <mxGeometry x="650" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R3fqboOcB1MEgXBpDGtV-27" value="&lt;font color=&quot;#666666&quot;&gt;&lt;i&gt;FUKUSHIMA&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="80" height="20" as="geometry" />
