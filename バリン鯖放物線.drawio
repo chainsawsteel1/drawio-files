@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T01:00:01.688Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="ptZxmdwa_6-TQ-J28cgV" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-18T01:01:06.465Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="g99cTJr4xTeZLK0VP2ua" version="24.7.1" type="github" pages="4">
   <diagram name="ページ1" id="QaieerKhkq7__LM671Lb">
     <mxGraphModel dx="1193" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="600" math="0" shadow="0">
       <root>
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="DWD2UvIaVbG-8XY5Nkfv-1" value="&lt;font color=&quot;#666666&quot;&gt;&lt;i&gt;IGA&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DWD2UvIaVbG-8XY5Nkfv-2" value="&lt;font color=&quot;#666666&quot;&gt;&lt;i&gt;PARIS&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
