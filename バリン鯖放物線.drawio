@@ -197,7 +197,7 @@
         <mxCell id="evUX_fBPlQq1jWejn8c_-1" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;他社&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;乗&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;り換え&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;豊鉄伊賀&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=14.17;dy=7;size=5;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xgX-yL8DDQo8ggBhsHWy-4" value="双曲線&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ナンバリングC&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xgX-yL8DDQo8ggBhsHWy-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;双曲線&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ナンバリングC&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VxcYVVWIhXwvnrBJlLpz-1" value="" style="endArrow=none;html=1;strokeWidth=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;opacity=50;" parent="1" edge="1">
