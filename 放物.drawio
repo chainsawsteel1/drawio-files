@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6" pages="7">
   <diagram name="LOGO" id="RK56-HePw1n1p9fZL12j">
     <mxGraphModel dx="1114" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="480" pageHeight="480" math="0" shadow="0">
       <root>
@@ -178,51 +178,80 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of station template" id="G1f_w1fFnDCBZfd8GBu_">
-    <mxGraphModel dx="1566" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="400" math="0" shadow="0">
+  <diagram name="koka" id="G1f_w1fFnDCBZfd8GBu_">
+    <mxGraphModel dx="1114" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="I6UzFX37EoiDMcXY89Np-0" />
         <mxCell id="I6UzFX37EoiDMcXY89Np-1" parent="I6UzFX37EoiDMcXY89Np-0" />
-        <mxCell id="I6UzFX37EoiDMcXY89Np-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 70px;&quot;&gt;放物&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I6UzFX37EoiDMcXY89Np-1">
+        <mxCell id="I6UzFX37EoiDMcXY89Np-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 70px;&quot;&gt;放物&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I6UzFX37EoiDMcXY89Np-1" vertex="1">
           <mxGeometry x="40" y="60" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I6UzFX37EoiDMcXY89Np-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 170px;&quot;&gt;高賀&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I6UzFX37EoiDMcXY89Np-1">
+        <mxCell id="I6UzFX37EoiDMcXY89Np-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 170px;&quot;&gt;高賀&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I6UzFX37EoiDMcXY89Np-1" vertex="1">
           <mxGeometry x="400" y="60" width="760" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="I6UzFX37EoiDMcXY89Np-4" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Koka&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I6UzFX37EoiDMcXY89Np-1">
+        <mxCell id="I6UzFX37EoiDMcXY89Np-4" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Koka&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I6UzFX37EoiDMcXY89Np-1" vertex="1">
           <mxGeometry x="400" y="280" width="760" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I6UzFX37EoiDMcXY89Np-5" value="logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I6UzFX37EoiDMcXY89Np-1">
+        <mxCell id="I6UzFX37EoiDMcXY89Np-5" value="logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="I6UzFX37EoiDMcXY89Np-1" vertex="1">
           <mxGeometry x="80" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I6UzFX37EoiDMcXY89Np-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;houbutu line&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I6UzFX37EoiDMcXY89Np-1">
+        <mxCell id="I6UzFX37EoiDMcXY89Np-6" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;houbutu line&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I6UzFX37EoiDMcXY89Np-1" vertex="1">
           <mxGeometry x="40" y="160" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ZXu6RDWrP-OQJDGdP3q1" name="Page-6">
-    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
+  <diagram id="ZXu6RDWrP-OQJDGdP3q1" name="store">
+    <mxGraphModel dx="1114" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l9JGss1sDpeiV0ExBkqf-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 140px;&quot;&gt;放物&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l9JGss1sDpeiV0ExBkqf-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 140px;&quot;&gt;放物&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="110" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="l9JGss1sDpeiV0ExBkqf-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 250px;&quot;&gt;ストア&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l9JGss1sDpeiV0ExBkqf-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 250px;&quot;&gt;ストア&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="770" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="l9JGss1sDpeiV0ExBkqf-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l9JGss1sDpeiV0ExBkqf-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l9JGss1sDpeiV0ExBkqf-4" value="&lt;i&gt;&lt;font style=&quot;font-size: 55px;&quot;&gt;&lt;u&gt;&quot;投げ捨てたくなる&quot;を貴方へ&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l9JGss1sDpeiV0ExBkqf-4" value="&lt;i&gt;&lt;font style=&quot;font-size: 55px;&quot;&gt;&lt;u&gt;&quot;投げ捨てたくなる&quot;を貴方へ&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="175" y="440" width="850" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lMetdu_E89CKpMhezUnm-1" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lMetdu_E89CKpMhezUnm-1" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry width="1200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lMetdu_E89CKpMhezUnm-2" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lMetdu_E89CKpMhezUnm-2" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="580" width="1200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wMJfwLf5ublj4LQQsMyp" name="Page-7">
+    <mxGraphModel dx="1114" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="840" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-1" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;&lt;font color=&quot;#1a5fb4&quot;&gt;HL&lt;/font&gt;&lt;font color=&quot;#26a269&quot;&gt;P&lt;/font&gt;-&lt;font color=&quot;#e5a50a&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#c64600&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#a51d2d&quot;&gt;01&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-3" value="&lt;div&gt;所有者を示す&lt;/div&gt;&lt;div&gt;基本アルファベット２字&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;HL: 放物線&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CR: chains鉄道&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;など&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-4" value="&lt;div&gt;種類を示す&lt;/div&gt;&lt;div&gt;基本アルファベット１字&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P: 旅客用&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;X: 特別列車&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;F: 貨物&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;M: モノレール&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;S: シールドマシン&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D: ドリル&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-6" value="&lt;div&gt;世代を示す&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-7" value="&lt;div&gt;両数を示す&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-8" value="&lt;div&gt;製造番号を示す&lt;/div&gt;&lt;div&gt;01から99まで&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UBXVfNbgF0OrCcXMUTa_-9" value="&lt;div&gt;工事用車両には割り当てないことが多い&lt;/div&gt;&lt;div&gt;時代遅れになったなどの理由でよく変更される&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
