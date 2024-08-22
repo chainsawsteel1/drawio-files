@@ -338,7 +338,7 @@
         <mxCell id="U0jnSrhR4c95wF1vpWH6-8" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U0jnSrhR4c95wF1vpWH6-1" vertex="1">
           <mxGeometry y="430" width="1200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o2B8nHb1AE9hrKuwvJGa-0" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;C02&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="U0jnSrhR4c95wF1vpWH6-1">
+        <mxCell id="o2B8nHb1AE9hrKuwvJGa-0" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;C02&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="U0jnSrhR4c95wF1vpWH6-1" vertex="1">
           <mxGeometry x="1030" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyoezEyBNKgKSL2Apf1A" name="Page-9">
-    <mxGraphModel dx="989" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,7 +495,7 @@
         <mxCell id="Ujq8_nQmhd7kD64N_Ppo-12" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="745" y="348" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ujq8_nQmhd7kD64N_Ppo-13" value="&lt;div&gt;高賀(A,B01)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Koka&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Ujq8_nQmhd7kD64N_Ppo-13" value="&lt;div&gt;高賀(A,B,C01)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Koka&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="555" y="438" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Ujq8_nQmhd7kD64N_Ppo-14" value="&lt;div&gt;札束(B02)&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Satutaba&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -532,7 +532,7 @@
         <mxCell id="oodoeKqB75FJg_y1v8PW-15" value="放物連絡線" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6_xoH_K3RlrZC0qcAxn9-2" value="&lt;div&gt;理事冠状線&lt;/div&gt;B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="6_xoH_K3RlrZC0qcAxn9-2" value="&lt;div&gt;理事冠状線&lt;/div&gt;B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
