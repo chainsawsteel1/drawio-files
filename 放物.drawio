@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyoezEyBNKgKSL2Apf1A" name="Page-9">
-    <mxGraphModel dx="1560" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,7 +583,7 @@
         <mxCell id="Y0qYj_5cvq_n1EKhXLe5-18" value="&lt;div&gt;書見勧誘線&lt;/div&gt;&lt;div&gt;C&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y0qYj_5cvq_n1EKhXLe5-19" value="&lt;div&gt;書見勧誘線&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Y0qYj_5cvq_n1EKhXLe5-19" value="&lt;div&gt;均衡転送線&lt;/div&gt;&lt;div&gt;D&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
