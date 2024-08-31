@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="16">
   <diagram name="LOGO" id="RK56-HePw1n1p9fZL12j">
     <mxGraphModel dx="1114" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="480" pageHeight="480" math="0" shadow="0">
       <root>
@@ -654,6 +654,41 @@
           <mxGeometry width="500" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9FyfYImx2fxGTT4gnv6L-10" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9FyfYImx2fxGTT4gnv6L-1">
+          <mxGeometry y="480" width="500" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ページ12のコピーのコピー" id="OAWla8zICgmWD8pXErx2">
+    <mxGraphModel dx="1566" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-0" />
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-1" parent="fJrq67ujMmc-H6Lb75c0-0" />
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-2" value="&lt;b style=&quot;font-size: 46px;&quot;&gt;地下街へは&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry y="20" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-3" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 57px;&quot;&gt;8&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry x="60" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-4" value="&lt;b style=&quot;font-size: 59px;&quot;&gt;番乗り場発&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry x="140" y="160" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 87px;&quot;&gt;未糸行&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry x="190" y="270" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-6" value="&lt;b style=&quot;font-size: 49px;&quot;&gt;各停&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry x="30" y="270" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 46px;&quot;&gt;にご乗車ください&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry x="30" y="400" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-8" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry y="10" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-9" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
+          <mxGeometry width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fJrq67ujMmc-H6Lb75c0-10" value="　" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fJrq67ujMmc-H6Lb75c0-1">
           <mxGeometry y="480" width="500" height="20" as="geometry" />
         </mxCell>
       </root>
